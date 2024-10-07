@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{CD71D72E-F5F1-4D72-ABFC-15D73D6F88ED}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.GameMovie PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controller/TestController.cs">
+    <Files>
+      <File FileName="Program.cs" Line="49" Column="1" />
+      <File FileName="appsettings.json" Line="13" Column="1" />
+      <File FileName="Entities/Game.cs" Line="1" Column="1" />
+      <File FileName="Entities/Movie.cs" Line="1" Column="1" />
+      <File FileName="Context/MyFirstDbContext.cs" Line="11" Column="10" />
+      <File FileName="Controller/TestController.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GameMovie" expanded="True">
+            <Node name="GameMovie" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
